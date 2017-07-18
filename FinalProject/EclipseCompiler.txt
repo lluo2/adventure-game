@@ -1,0 +1,37 @@
+22 Dec 2016 10:00:15 GMT: Log 'EclipseCompiler.txt' opened: 22 Dec 2016 10:00:15 GMT with name C:\Users\circulating\Desktop\FINALPROJECT_lluo_jaguilar_avalle\FinalProject\EclipseCompiler.txt
+22 Dec 2016 10:00:23 GMT: diagnostics = javax.tools.DiagnosticCollector@5a23a052
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@58f295b9
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT_lluo_jaguilar_avalle\FinalProject\PlayGame.java]
+22 Dec 2016 10:00:23 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1e43d24e' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT_lluo_jaguilar_avalle\FinalProject;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+22 Dec 2016 10:00:23 GMT: Compiler call returned
+22 Dec 2016 10:00:58 GMT: diagnostics = javax.tools.DiagnosticCollector@6d9199
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1971d407
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT_lluo_jaguilar_avalle\FinalProject\PlayGame.java]
+22 Dec 2016 10:00:58 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@17249e' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT_lluo_jaguilar_avalle\FinalProject;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+22 Dec 2016 10:00:58 GMT: Compiler call returned
+22 Dec 2016 10:01:36 GMT: diagnostics = javax.tools.DiagnosticCollector@283f62e2
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@5974f812
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT_lluo_jaguilar_avalle\FinalProject\PlayGame.java, C:\Users\circulating\Desktop\FINALPROJECT_lluo_jaguilar_avalle\FinalProject\Room.java]
+22 Dec 2016 10:01:36 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@e4a93a0' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT_lluo_jaguilar_avalle\FinalProject;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+22 Dec 2016 10:01:36 GMT: Compiler call returned
+22 Dec 2016 10:02:02 GMT: diagnostics = javax.tools.DiagnosticCollector@6b2b97b6
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@7af564b1
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT_lluo_jaguilar_avalle\FinalProject\PlayGame.java, C:\Users\circulating\Desktop\FINALPROJECT_lluo_jaguilar_avalle\FinalProject\Room.java]
+22 Dec 2016 10:02:02 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@4a5df88' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT_lluo_jaguilar_avalle\FinalProject;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+22 Dec 2016 10:02:02 GMT: Compiler call returned
+22 Dec 2016 10:02:08 GMT: diagnostics = javax.tools.DiagnosticCollector@61387c19
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@435b7f2c
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT_lluo_jaguilar_avalle\FinalProject\PlayGame.java, C:\Users\circulating\Desktop\FINALPROJECT_lluo_jaguilar_avalle\FinalProject\Room.java]
+22 Dec 2016 10:02:08 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@2bfa4440' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT_lluo_jaguilar_avalle\FinalProject;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+22 Dec 2016 10:02:08 GMT: Compiler call returned
+22 Dec 2016 10:02:21 GMT: diagnostics = javax.tools.DiagnosticCollector@16970e60
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1730cc36
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT_lluo_jaguilar_avalle\FinalProject\PlayGame.java, C:\Users\circulating\Desktop\FINALPROJECT_lluo_jaguilar_avalle\FinalProject\Room.java]
+22 Dec 2016 10:02:21 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@4aef91f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT_lluo_jaguilar_avalle\FinalProject;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+22 Dec 2016 10:02:21 GMT: Compiler call returned
+22 Dec 2016 10:03:51 GMT: Log 'EclipseCompiler.txt' opened: 22 Dec 2016 10:03:51 GMT with name C:\Users\circulating\Desktop\FINALPROJECT_lluo_jaguilar_avalle\FinalProject\EclipseCompiler.txt
+22 Dec 2016 10:03:56 GMT: diagnostics = javax.tools.DiagnosticCollector@a3b0e2c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@2b1f6ff3
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT_lluo_jaguilar_avalle\FinalProject\PlayGame.java]
+22 Dec 2016 10:03:56 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1ceed0a3' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT_lluo_jaguilar_avalle\FinalProject;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+22 Dec 2016 10:03:57 GMT: Compiler call returned
