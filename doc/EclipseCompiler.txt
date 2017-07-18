@@ -1,0 +1,1565 @@
+16 Dec 2016 18:35:05 GMT: Log 'EclipseCompiler.txt' opened: 16 Dec 2016 18:35:05 GMT with name C:\Users\circulating\Desktop\FINALPROJECT\EclipseCompiler.txt
+16 Dec 2016 18:35:53 GMT: diagnostics = javax.tools.DiagnosticCollector@22851f71
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@51d3456b
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java, C:\Users\circulating\Desktop\FINALPROJECT\Graph.java]
+16 Dec 2016 18:35:53 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@5729dc5' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+16 Dec 2016 18:35:54 GMT: Compiler call returned
+16 Dec 2016 18:35:54 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@421a3fcf
+16 Dec 2016 18:35:54 GMT:  Kind = WARNING
+16 Dec 2016 18:35:54 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 34 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:35:54 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2ac7fed5
+16 Dec 2016 18:35:54 GMT:  Kind = WARNING
+16 Dec 2016 18:35:54 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 47 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:35:54 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@302b67e4
+16 Dec 2016 18:35:54 GMT:  Kind = WARNING
+16 Dec 2016 18:35:54 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 263 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:35:54 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@71b1c270
+16 Dec 2016 18:35:54 GMT:  Kind = WARNING
+16 Dec 2016 18:35:54 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 10 ColNo = 8 Msg = 'The import java.util.Arrays is never used'
+16 Dec 2016 18:40:47 GMT: diagnostics = javax.tools.DiagnosticCollector@4a484d0c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@50ba74ed
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java, C:\Users\circulating\Desktop\FINALPROJECT\Graph.java]
+16 Dec 2016 18:40:47 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1529d03' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+16 Dec 2016 18:40:47 GMT: Compiler call returned
+16 Dec 2016 18:40:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4074ca7c
+16 Dec 2016 18:40:47 GMT:  Kind = WARNING
+16 Dec 2016 18:40:47 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 34 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:40:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3399b3f3
+16 Dec 2016 18:40:47 GMT:  Kind = WARNING
+16 Dec 2016 18:40:47 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 47 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:40:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2ff530fc
+16 Dec 2016 18:40:47 GMT:  Kind = WARNING
+16 Dec 2016 18:40:47 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 263 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:40:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a6308fd
+16 Dec 2016 18:40:47 GMT:  Kind = WARNING
+16 Dec 2016 18:40:47 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 10 ColNo = 8 Msg = 'The import java.util.Arrays is never used'
+16 Dec 2016 18:41:08 GMT: diagnostics = javax.tools.DiagnosticCollector@7c0ba18d
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@5f9b6f9a
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java, C:\Users\circulating\Desktop\FINALPROJECT\Graph.java]
+16 Dec 2016 18:41:08 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@55bc187f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+16 Dec 2016 18:41:08 GMT: Compiler call returned
+16 Dec 2016 18:41:08 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b3b3650
+16 Dec 2016 18:41:08 GMT:  Kind = WARNING
+16 Dec 2016 18:41:08 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 34 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:41:08 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4c6acc27
+16 Dec 2016 18:41:08 GMT:  Kind = WARNING
+16 Dec 2016 18:41:08 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 47 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:41:08 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@77813ba2
+16 Dec 2016 18:41:08 GMT:  Kind = WARNING
+16 Dec 2016 18:41:08 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 263 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:41:08 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@457245f9
+16 Dec 2016 18:41:08 GMT:  Kind = WARNING
+16 Dec 2016 18:41:08 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 10 ColNo = 8 Msg = 'The import java.util.Arrays is never used'
+16 Dec 2016 18:43:50 GMT: diagnostics = javax.tools.DiagnosticCollector@3b06e6f2
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@42243824
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\Graph.java, C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java]
+16 Dec 2016 18:43:50 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@57e1e568' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Desktop;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+16 Dec 2016 18:43:50 GMT: Compiler call returned
+16 Dec 2016 18:43:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@413a6de3
+16 Dec 2016 18:43:50 GMT:  Kind = WARNING
+16 Dec 2016 18:43:50 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 34 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:43:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@63047389
+16 Dec 2016 18:43:50 GMT:  Kind = WARNING
+16 Dec 2016 18:43:50 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 47 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:43:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@393d5a28
+16 Dec 2016 18:43:50 GMT:  Kind = WARNING
+16 Dec 2016 18:43:50 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 265 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:43:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6aea1573
+16 Dec 2016 18:43:50 GMT:  Kind = WARNING
+16 Dec 2016 18:43:50 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 10 ColNo = 8 Msg = 'The import java.util.Arrays is never used'
+16 Dec 2016 18:44:44 GMT: diagnostics = javax.tools.DiagnosticCollector@3ba3aba9
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@765b02d5
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\Graph.java, C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java]
+16 Dec 2016 18:44:44 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@51172aa7' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Desktop;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+16 Dec 2016 18:44:44 GMT: Compiler call returned
+16 Dec 2016 18:44:44 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@51d8caea
+16 Dec 2016 18:44:44 GMT:  Kind = WARNING
+16 Dec 2016 18:44:44 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 34 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:44:44 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6ff1f2a0
+16 Dec 2016 18:44:44 GMT:  Kind = WARNING
+16 Dec 2016 18:44:44 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 47 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:44:44 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@75701fca
+16 Dec 2016 18:44:44 GMT:  Kind = WARNING
+16 Dec 2016 18:44:44 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 265 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:44:44 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@14374302
+16 Dec 2016 18:44:44 GMT:  Kind = WARNING
+16 Dec 2016 18:44:44 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 10 ColNo = 8 Msg = 'The import java.util.Arrays is never used'
+16 Dec 2016 18:44:57 GMT: diagnostics = javax.tools.DiagnosticCollector@248667c6
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@74070ae5
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\Graph.java, C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java]
+16 Dec 2016 18:44:57 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7a5c7be5' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Desktop;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+16 Dec 2016 18:44:57 GMT: Compiler call returned
+16 Dec 2016 18:44:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@43b23922
+16 Dec 2016 18:44:57 GMT:  Kind = WARNING
+16 Dec 2016 18:44:57 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 34 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:44:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@69c509e6
+16 Dec 2016 18:44:57 GMT:  Kind = WARNING
+16 Dec 2016 18:44:57 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 47 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:44:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@70d114a
+16 Dec 2016 18:44:57 GMT:  Kind = WARNING
+16 Dec 2016 18:44:57 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 265 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:44:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6aea14e3
+16 Dec 2016 18:44:57 GMT:  Kind = WARNING
+16 Dec 2016 18:44:57 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 10 ColNo = 8 Msg = 'The import java.util.Arrays is never used'
+16 Dec 2016 18:45:20 GMT: diagnostics = javax.tools.DiagnosticCollector@1686e800
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@72e9638d
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\Graph.java, C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java]
+16 Dec 2016 18:45:20 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@3886f8eb' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Desktop;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+16 Dec 2016 18:45:20 GMT: Compiler call returned
+16 Dec 2016 18:45:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@606dc682
+16 Dec 2016 18:45:20 GMT:  Kind = WARNING
+16 Dec 2016 18:45:20 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 34 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:45:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4703b243
+16 Dec 2016 18:45:20 GMT:  Kind = WARNING
+16 Dec 2016 18:45:20 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 47 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:45:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@43ac7121
+16 Dec 2016 18:45:20 GMT:  Kind = WARNING
+16 Dec 2016 18:45:20 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 265 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:45:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6e37503c
+16 Dec 2016 18:45:20 GMT:  Kind = WARNING
+16 Dec 2016 18:45:20 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 10 ColNo = 8 Msg = 'The import java.util.Arrays is never used'
+16 Dec 2016 18:45:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7174cbab
+16 Dec 2016 18:45:20 GMT:  Kind = WARNING
+16 Dec 2016 18:45:20 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 97 ColNo = 24 Msg = 'The value of the local variable label is not used'
+16 Dec 2016 18:49:14 GMT: diagnostics = javax.tools.DiagnosticCollector@13eb5aab
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@408d9ac4
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\Graph.java, C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java]
+16 Dec 2016 18:49:14 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@10abdaf8' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Desktop;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+16 Dec 2016 18:49:14 GMT: Compiler call returned
+16 Dec 2016 18:49:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@557af5ba
+16 Dec 2016 18:49:14 GMT:  Kind = WARNING
+16 Dec 2016 18:49:14 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 34 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:49:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7b9ab22d
+16 Dec 2016 18:49:14 GMT:  Kind = WARNING
+16 Dec 2016 18:49:14 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 47 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:49:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6927e7c0
+16 Dec 2016 18:49:14 GMT:  Kind = ERROR
+16 Dec 2016 18:49:14 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 95 ColNo = 20 Msg = 'Cannot invoke size() on the array type java.lang.String[]'
+16 Dec 2016 18:49:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3ae0242f
+16 Dec 2016 18:49:14 GMT:  Kind = ERROR
+16 Dec 2016 18:49:14 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 103 ColNo = 38 Msg = 'src cannot be resolved to a variable'
+16 Dec 2016 18:49:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5167a7db
+16 Dec 2016 18:49:14 GMT:  Kind = ERROR
+16 Dec 2016 18:49:14 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 103 ColNo = 53 Msg = 'src cannot be resolved to a variable'
+16 Dec 2016 18:49:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6c3d449d
+16 Dec 2016 18:49:14 GMT:  Kind = ERROR
+16 Dec 2016 18:49:14 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 103 ColNo = 93 Msg = 'src cannot be resolved to a variable'
+16 Dec 2016 18:49:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2a63d6ef
+16 Dec 2016 18:49:14 GMT:  Kind = ERROR
+16 Dec 2016 18:49:14 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 104 ColNo = 38 Msg = 'dest cannot be resolved to a variable'
+16 Dec 2016 18:49:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b3faa7
+16 Dec 2016 18:49:14 GMT:  Kind = ERROR
+16 Dec 2016 18:49:14 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 104 ColNo = 53 Msg = 'dest cannot be resolved to a variable'
+16 Dec 2016 18:49:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@280cea4d
+16 Dec 2016 18:49:14 GMT:  Kind = ERROR
+16 Dec 2016 18:49:14 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 104 ColNo = 93 Msg = 'dest cannot be resolved to a variable'
+16 Dec 2016 18:49:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@67ea79c5
+16 Dec 2016 18:49:14 GMT:  Kind = ERROR
+16 Dec 2016 18:49:14 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 107 ColNo = 37 Msg = 'src cannot be resolved to a variable'
+16 Dec 2016 18:49:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@52e0a9cf
+16 Dec 2016 18:49:14 GMT:  Kind = ERROR
+16 Dec 2016 18:49:14 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 107 ColNo = 54 Msg = 'dest cannot be resolved to a variable'
+16 Dec 2016 18:49:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1bac7f8b
+16 Dec 2016 18:49:14 GMT:  Kind = ERROR
+16 Dec 2016 18:49:14 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 107 ColNo = 61 Msg = 'weight cannot be resolved to a variable'
+16 Dec 2016 18:49:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@59e98cde
+16 Dec 2016 18:49:14 GMT:  Kind = WARNING
+16 Dec 2016 18:49:14 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 264 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:49:26 GMT: diagnostics = javax.tools.DiagnosticCollector@2bbb32d1
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@f054dc5
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\Graph.java, C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java]
+16 Dec 2016 18:49:26 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@2534c837' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Desktop;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+16 Dec 2016 18:49:26 GMT: Compiler call returned
+16 Dec 2016 18:49:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@52a7578
+16 Dec 2016 18:49:26 GMT:  Kind = WARNING
+16 Dec 2016 18:49:26 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 34 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:49:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@26861bee
+16 Dec 2016 18:49:26 GMT:  Kind = WARNING
+16 Dec 2016 18:49:26 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 47 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:49:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2e93ba04
+16 Dec 2016 18:49:26 GMT:  Kind = ERROR
+16 Dec 2016 18:49:26 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 103 ColNo = 38 Msg = 'src cannot be resolved to a variable'
+16 Dec 2016 18:49:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6499747f
+16 Dec 2016 18:49:26 GMT:  Kind = ERROR
+16 Dec 2016 18:49:26 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 103 ColNo = 53 Msg = 'src cannot be resolved to a variable'
+16 Dec 2016 18:49:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@16af7172
+16 Dec 2016 18:49:26 GMT:  Kind = ERROR
+16 Dec 2016 18:49:26 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 103 ColNo = 93 Msg = 'src cannot be resolved to a variable'
+16 Dec 2016 18:49:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5840ff00
+16 Dec 2016 18:49:26 GMT:  Kind = ERROR
+16 Dec 2016 18:49:26 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 104 ColNo = 38 Msg = 'dest cannot be resolved to a variable'
+16 Dec 2016 18:49:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13258644
+16 Dec 2016 18:49:26 GMT:  Kind = ERROR
+16 Dec 2016 18:49:26 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 104 ColNo = 53 Msg = 'dest cannot be resolved to a variable'
+16 Dec 2016 18:49:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@491e42e
+16 Dec 2016 18:49:26 GMT:  Kind = ERROR
+16 Dec 2016 18:49:26 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 104 ColNo = 93 Msg = 'dest cannot be resolved to a variable'
+16 Dec 2016 18:49:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@61b8a5a
+16 Dec 2016 18:49:26 GMT:  Kind = ERROR
+16 Dec 2016 18:49:26 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 107 ColNo = 37 Msg = 'src cannot be resolved to a variable'
+16 Dec 2016 18:49:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7a181dd7
+16 Dec 2016 18:49:26 GMT:  Kind = ERROR
+16 Dec 2016 18:49:26 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 107 ColNo = 54 Msg = 'dest cannot be resolved to a variable'
+16 Dec 2016 18:49:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@454f4ce0
+16 Dec 2016 18:49:26 GMT:  Kind = ERROR
+16 Dec 2016 18:49:26 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 107 ColNo = 61 Msg = 'weight cannot be resolved to a variable'
+16 Dec 2016 18:49:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@594029ac
+16 Dec 2016 18:49:26 GMT:  Kind = WARNING
+16 Dec 2016 18:49:26 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 264 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:49:45 GMT: diagnostics = javax.tools.DiagnosticCollector@6eaa4c36
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@6e71a5fc
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\Graph.java, C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java]
+16 Dec 2016 18:49:45 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@67487c09' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Desktop;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+16 Dec 2016 18:49:46 GMT: Compiler call returned
+16 Dec 2016 18:49:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@44d93a51
+16 Dec 2016 18:49:46 GMT:  Kind = WARNING
+16 Dec 2016 18:49:46 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 34 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:49:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1183bf27
+16 Dec 2016 18:49:46 GMT:  Kind = WARNING
+16 Dec 2016 18:49:46 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 47 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:49:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@607aa26c
+16 Dec 2016 18:49:46 GMT:  Kind = ERROR
+16 Dec 2016 18:49:46 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 100 ColNo = 37 Msg = 'src cannot be resolved to a variable'
+16 Dec 2016 18:49:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@133d91f0
+16 Dec 2016 18:49:46 GMT:  Kind = ERROR
+16 Dec 2016 18:49:46 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 100 ColNo = 54 Msg = 'dest cannot be resolved to a variable'
+16 Dec 2016 18:49:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2f382d6e
+16 Dec 2016 18:49:46 GMT:  Kind = ERROR
+16 Dec 2016 18:49:46 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 100 ColNo = 61 Msg = 'weight cannot be resolved to a variable'
+16 Dec 2016 18:49:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@112ea8fa
+16 Dec 2016 18:49:46 GMT:  Kind = WARNING
+16 Dec 2016 18:49:46 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 257 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:49:58 GMT: diagnostics = javax.tools.DiagnosticCollector@39074289
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@ba14d9f
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\Graph.java, C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java]
+16 Dec 2016 18:49:58 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@aef07b0' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Desktop;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+16 Dec 2016 18:49:59 GMT: Compiler call returned
+16 Dec 2016 18:49:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@350aca05
+16 Dec 2016 18:49:59 GMT:  Kind = WARNING
+16 Dec 2016 18:49:59 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 34 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:49:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@57552977
+16 Dec 2016 18:49:59 GMT:  Kind = WARNING
+16 Dec 2016 18:49:59 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 47 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:49:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1815706c
+16 Dec 2016 18:49:59 GMT:  Kind = ERROR
+16 Dec 2016 18:49:59 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 100 ColNo = 26 Msg = 'src cannot be resolved to a variable'
+16 Dec 2016 18:49:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2787cece
+16 Dec 2016 18:49:59 GMT:  Kind = ERROR
+16 Dec 2016 18:49:59 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 100 ColNo = 31 Msg = 'dest cannot be resolved to a variable'
+16 Dec 2016 18:49:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@451a4aa8
+16 Dec 2016 18:49:59 GMT:  Kind = ERROR
+16 Dec 2016 18:49:59 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 100 ColNo = 37 Msg = 'weight cannot be resolved to a variable'
+16 Dec 2016 18:49:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@411b7f09
+16 Dec 2016 18:49:59 GMT:  Kind = WARNING
+16 Dec 2016 18:49:59 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 257 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:50:42 GMT: diagnostics = javax.tools.DiagnosticCollector@1295e6d1
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@2f64acdf
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\Graph.java, C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java]
+16 Dec 2016 18:50:42 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7a917cc7' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Desktop;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+16 Dec 2016 18:50:42 GMT: Compiler call returned
+16 Dec 2016 18:50:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1615ebad
+16 Dec 2016 18:50:42 GMT:  Kind = WARNING
+16 Dec 2016 18:50:42 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 34 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:50:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7923b62e
+16 Dec 2016 18:50:42 GMT:  Kind = WARNING
+16 Dec 2016 18:50:42 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 47 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:50:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@178dc424
+16 Dec 2016 18:50:42 GMT:  Kind = ERROR
+16 Dec 2016 18:50:42 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 100 ColNo = 27 Msg = 'Cannot make a static reference to the non-static type T'
+16 Dec 2016 18:50:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5c482390
+16 Dec 2016 18:50:42 GMT:  Kind = ERROR
+16 Dec 2016 18:50:42 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 100 ColNo = 29 Msg = 'src cannot be resolved to a variable'
+16 Dec 2016 18:50:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@416f245
+16 Dec 2016 18:50:42 GMT:  Kind = ERROR
+16 Dec 2016 18:50:42 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 100 ColNo = 34 Msg = 'Cannot make a static reference to the non-static type T'
+16 Dec 2016 18:50:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7e7b921b
+16 Dec 2016 18:50:42 GMT:  Kind = ERROR
+16 Dec 2016 18:50:42 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 100 ColNo = 37 Msg = 'dest cannot be resolved to a variable'
+16 Dec 2016 18:50:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@62b56b7c
+16 Dec 2016 18:50:42 GMT:  Kind = ERROR
+16 Dec 2016 18:50:42 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 100 ColNo = 43 Msg = 'weight cannot be resolved to a variable'
+16 Dec 2016 18:50:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@74a3cc84
+16 Dec 2016 18:50:42 GMT:  Kind = WARNING
+16 Dec 2016 18:50:42 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 257 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:51:09 GMT: diagnostics = javax.tools.DiagnosticCollector@52e093d8
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@160a746a
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\Graph.java, C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java]
+16 Dec 2016 18:51:09 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@860e674' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Desktop;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+16 Dec 2016 18:51:09 GMT: Compiler call returned
+16 Dec 2016 18:51:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@78e4b7df
+16 Dec 2016 18:51:09 GMT:  Kind = WARNING
+16 Dec 2016 18:51:09 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 34 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:51:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6fe3cf7a
+16 Dec 2016 18:51:09 GMT:  Kind = WARNING
+16 Dec 2016 18:51:09 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 47 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:51:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@554a8bf9
+16 Dec 2016 18:51:09 GMT:  Kind = ERROR
+16 Dec 2016 18:51:09 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 92 ColNo = 17 Msg = 'Cannot make a static reference to the non-static type T'
+16 Dec 2016 18:51:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@112bb42e
+16 Dec 2016 18:51:09 GMT:  Kind = ERROR
+16 Dec 2016 18:51:09 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 92 ColNo = 25 Msg = 'Cannot make a static reference to the non-static type T'
+16 Dec 2016 18:51:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4c4240d0
+16 Dec 2016 18:51:09 GMT:  Kind = ERROR
+16 Dec 2016 18:51:09 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 93 ColNo = 17 Msg = 'Cannot make a static reference to the non-static type T'
+16 Dec 2016 18:51:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11ad3ecd
+16 Dec 2016 18:51:09 GMT:  Kind = ERROR
+16 Dec 2016 18:51:09 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 93 ColNo = 26 Msg = 'Cannot make a static reference to the non-static type T'
+16 Dec 2016 18:51:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4f60dcc
+16 Dec 2016 18:51:09 GMT:  Kind = ERROR
+16 Dec 2016 18:51:09 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 100 ColNo = 26 Msg = 'src cannot be resolved to a variable'
+16 Dec 2016 18:51:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3603ce9f
+16 Dec 2016 18:51:09 GMT:  Kind = ERROR
+16 Dec 2016 18:51:09 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 100 ColNo = 30 Msg = 'dest cannot be resolved to a variable'
+16 Dec 2016 18:51:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@33f2446d
+16 Dec 2016 18:51:09 GMT:  Kind = ERROR
+16 Dec 2016 18:51:09 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 100 ColNo = 36 Msg = 'weight cannot be resolved to a variable'
+16 Dec 2016 18:51:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@666a6abf
+16 Dec 2016 18:51:09 GMT:  Kind = WARNING
+16 Dec 2016 18:51:09 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 257 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:51:26 GMT: diagnostics = javax.tools.DiagnosticCollector@ed718c1
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@4b9a2e83
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\Graph.java, C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java]
+16 Dec 2016 18:51:26 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7763c13b' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Desktop;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+16 Dec 2016 18:51:26 GMT: Compiler call returned
+16 Dec 2016 18:51:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18942c42
+16 Dec 2016 18:51:26 GMT:  Kind = WARNING
+16 Dec 2016 18:51:26 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 34 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:51:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@27e5ada9
+16 Dec 2016 18:51:26 GMT:  Kind = WARNING
+16 Dec 2016 18:51:26 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 47 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:51:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@57ec46b5
+16 Dec 2016 18:51:26 GMT:  Kind = WARNING
+16 Dec 2016 18:51:26 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 92 ColNo = 24 Msg = 'Type safety: Unchecked cast from java.lang.String to T'
+16 Dec 2016 18:51:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5916422b
+16 Dec 2016 18:51:26 GMT:  Kind = WARNING
+16 Dec 2016 18:51:26 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 93 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.String to T'
+16 Dec 2016 18:51:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@445242be
+16 Dec 2016 18:51:26 GMT:  Kind = ERROR
+16 Dec 2016 18:51:26 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 100 ColNo = 26 Msg = 'src cannot be resolved to a variable'
+16 Dec 2016 18:51:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@749beafc
+16 Dec 2016 18:51:26 GMT:  Kind = ERROR
+16 Dec 2016 18:51:26 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 100 ColNo = 30 Msg = 'dest cannot be resolved to a variable'
+16 Dec 2016 18:51:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@28608233
+16 Dec 2016 18:51:26 GMT:  Kind = ERROR
+16 Dec 2016 18:51:26 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 100 ColNo = 36 Msg = 'weight cannot be resolved to a variable'
+16 Dec 2016 18:51:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5803f6fa
+16 Dec 2016 18:51:26 GMT:  Kind = WARNING
+16 Dec 2016 18:51:26 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 257 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:51:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6c4bc43a
+16 Dec 2016 18:51:26 GMT:  Kind = ERROR
+16 Dec 2016 18:51:26 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 598 ColNo = 9 Msg = 'Cannot make a static reference to the non-static method loadTGF(java.lang.String, AdjMatGraph<java.lang.String>) from the type AdjMatGraph<T>'
+16 Dec 2016 18:51:46 GMT: diagnostics = javax.tools.DiagnosticCollector@7c9ee047
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@2296953c
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\Graph.java, C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java]
+16 Dec 2016 18:51:46 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@4c1fa7e1' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Desktop;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+16 Dec 2016 18:51:46 GMT: Compiler call returned
+16 Dec 2016 18:51:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@65ad8a97
+16 Dec 2016 18:51:46 GMT:  Kind = WARNING
+16 Dec 2016 18:51:46 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 34 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:51:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6465f3a7
+16 Dec 2016 18:51:46 GMT:  Kind = WARNING
+16 Dec 2016 18:51:46 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 47 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:51:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@615f8c6f
+16 Dec 2016 18:51:46 GMT:  Kind = WARNING
+16 Dec 2016 18:51:46 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 92 ColNo = 24 Msg = 'Type safety: Unchecked cast from java.lang.String to T'
+16 Dec 2016 18:51:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@47fcfd5a
+16 Dec 2016 18:51:46 GMT:  Kind = WARNING
+16 Dec 2016 18:51:46 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 93 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.String to T'
+16 Dec 2016 18:51:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@325d44a2
+16 Dec 2016 18:51:46 GMT:  Kind = ERROR
+16 Dec 2016 18:51:46 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 100 ColNo = 26 Msg = 'src cannot be resolved to a variable'
+16 Dec 2016 18:51:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@9450183
+16 Dec 2016 18:51:46 GMT:  Kind = ERROR
+16 Dec 2016 18:51:46 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 100 ColNo = 30 Msg = 'dest cannot be resolved to a variable'
+16 Dec 2016 18:51:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11664436
+16 Dec 2016 18:51:46 GMT:  Kind = ERROR
+16 Dec 2016 18:51:46 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 100 ColNo = 36 Msg = 'weight cannot be resolved to a variable'
+16 Dec 2016 18:51:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@51083e26
+16 Dec 2016 18:51:46 GMT:  Kind = WARNING
+16 Dec 2016 18:51:46 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 257 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:52:16 GMT: diagnostics = javax.tools.DiagnosticCollector@1b74fd63
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1da77caa
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\Graph.java, C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java]
+16 Dec 2016 18:52:16 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@5ee98c1b' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Desktop;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+16 Dec 2016 18:52:17 GMT: Compiler call returned
+16 Dec 2016 18:52:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@108fc6c3
+16 Dec 2016 18:52:17 GMT:  Kind = WARNING
+16 Dec 2016 18:52:17 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 34 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:52:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4f4234b3
+16 Dec 2016 18:52:17 GMT:  Kind = WARNING
+16 Dec 2016 18:52:17 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 47 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:52:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@391fc6c
+16 Dec 2016 18:52:17 GMT:  Kind = WARNING
+16 Dec 2016 18:52:17 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 93 ColNo = 24 Msg = 'Type safety: Unchecked cast from java.lang.String to T'
+16 Dec 2016 18:52:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@65531848
+16 Dec 2016 18:52:17 GMT:  Kind = WARNING
+16 Dec 2016 18:52:17 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 94 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.String to T'
+16 Dec 2016 18:52:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@325f52f0
+16 Dec 2016 18:52:17 GMT:  Kind = ERROR
+16 Dec 2016 18:52:17 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 99 ColNo = 19 Msg = 'The method addArc(java.lang.String, java.lang.String, int) in the type AdjMatGraph<java.lang.String> is not applicable for the arguments (T, T, int)'
+16 Dec 2016 18:52:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@103e2466
+16 Dec 2016 18:52:17 GMT:  Kind = WARNING
+16 Dec 2016 18:52:17 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 259 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:52:36 GMT: diagnostics = javax.tools.DiagnosticCollector@3f9475ab
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@2bb94e29
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\Graph.java, C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java]
+16 Dec 2016 18:52:36 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@12ba7c2c' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Desktop;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+16 Dec 2016 18:52:36 GMT: Compiler call returned
+16 Dec 2016 18:52:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5a1eee41
+16 Dec 2016 18:52:36 GMT:  Kind = WARNING
+16 Dec 2016 18:52:36 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 34 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:52:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@24ac1ba0
+16 Dec 2016 18:52:36 GMT:  Kind = WARNING
+16 Dec 2016 18:52:36 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 47 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:52:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f49b82f
+16 Dec 2016 18:52:36 GMT:  Kind = WARNING
+16 Dec 2016 18:52:36 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 93 ColNo = 29 Msg = 'Type safety: Unchecked cast from java.lang.String to T'
+16 Dec 2016 18:52:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@20db25b5
+16 Dec 2016 18:52:36 GMT:  Kind = ERROR
+16 Dec 2016 18:52:36 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 93 ColNo = 29 Msg = 'Type mismatch: cannot convert from T to java.lang.String'
+16 Dec 2016 18:52:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13889eed
+16 Dec 2016 18:52:36 GMT:  Kind = WARNING
+16 Dec 2016 18:52:36 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 94 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.String to T'
+16 Dec 2016 18:52:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6e79e39f
+16 Dec 2016 18:52:36 GMT:  Kind = ERROR
+16 Dec 2016 18:52:36 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 94 ColNo = 30 Msg = 'Type mismatch: cannot convert from T to java.lang.String'
+16 Dec 2016 18:52:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@44f1463
+16 Dec 2016 18:52:36 GMT:  Kind = WARNING
+16 Dec 2016 18:52:36 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 259 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:52:43 GMT: diagnostics = javax.tools.DiagnosticCollector@e540af9
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@2f9c68c8
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\Graph.java, C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java]
+16 Dec 2016 18:52:43 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@45a33ae3' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Desktop;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+16 Dec 2016 18:52:43 GMT: Compiler call returned
+16 Dec 2016 18:52:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@440f9b8
+16 Dec 2016 18:52:43 GMT:  Kind = WARNING
+16 Dec 2016 18:52:43 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 34 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:52:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@45caa136
+16 Dec 2016 18:52:43 GMT:  Kind = WARNING
+16 Dec 2016 18:52:43 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 47 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:52:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7a1e0405
+16 Dec 2016 18:52:43 GMT:  Kind = WARNING
+16 Dec 2016 18:52:43 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 259 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:52:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@489a22e5
+16 Dec 2016 18:52:43 GMT:  Kind = WARNING
+16 Dec 2016 18:52:43 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 10 ColNo = 8 Msg = 'The import java.util.Arrays is never used'
+16 Dec 2016 18:53:06 GMT: diagnostics = javax.tools.DiagnosticCollector@7cb5c6f9
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@21a4566
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\Graph.java, C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java]
+16 Dec 2016 18:53:06 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@ac22c9e' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Desktop;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+16 Dec 2016 18:53:06 GMT: Compiler call returned
+16 Dec 2016 18:53:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@72183486
+16 Dec 2016 18:53:06 GMT:  Kind = ERROR
+16 Dec 2016 18:53:06 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 64 ColNo = 19 Msg = 'Return type for the method is missing'
+16 Dec 2016 18:53:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@132083ef
+16 Dec 2016 18:53:06 GMT:  Kind = ERROR
+16 Dec 2016 18:53:06 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 64 ColNo = 19 Msg = 'Return type for the method is missing'
+16 Dec 2016 18:53:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3bb5c9b8
+16 Dec 2016 18:53:06 GMT:  Kind = ERROR
+16 Dec 2016 18:53:06 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 64 ColNo = 19 Msg = 'Return type for the method is missing'
+16 Dec 2016 18:53:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1bce6da8
+16 Dec 2016 18:53:06 GMT:  Kind = WARNING
+16 Dec 2016 18:53:06 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 34 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:53:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d813edb
+16 Dec 2016 18:53:06 GMT:  Kind = WARNING
+16 Dec 2016 18:53:06 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 47 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:53:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2045a2ca
+16 Dec 2016 18:53:06 GMT:  Kind = WARNING
+16 Dec 2016 18:53:06 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 259 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:53:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3bc28c53
+16 Dec 2016 18:53:06 GMT:  Kind = ERROR
+16 Dec 2016 18:53:06 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 600 ColNo = 15 Msg = 'The method loadTGF(java.lang.String, AdjMatGraph<java.lang.String>) is undefined for the type AdjMatGraph<java.lang.String>'
+16 Dec 2016 18:53:11 GMT: diagnostics = javax.tools.DiagnosticCollector@32266a7c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@78190c9c
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\Graph.java, C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java]
+16 Dec 2016 18:53:11 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@348b135d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Desktop;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+16 Dec 2016 18:53:11 GMT: Compiler call returned
+16 Dec 2016 18:53:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6f4bd2bb
+16 Dec 2016 18:53:11 GMT:  Kind = WARNING
+16 Dec 2016 18:53:11 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 34 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:53:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5af82c12
+16 Dec 2016 18:53:11 GMT:  Kind = WARNING
+16 Dec 2016 18:53:11 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 47 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:53:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5b158066
+16 Dec 2016 18:53:11 GMT:  Kind = WARNING
+16 Dec 2016 18:53:11 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 259 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:53:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@60a0d741
+16 Dec 2016 18:53:11 GMT:  Kind = WARNING
+16 Dec 2016 18:53:11 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 600 ColNo = 9 Msg = 'The static method loadTGF(java.lang.String, AdjMatGraph<java.lang.String>) from the type AdjMatGraph<java.lang.String> should be accessed in a static way'
+16 Dec 2016 18:53:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5f941df6
+16 Dec 2016 18:53:11 GMT:  Kind = WARNING
+16 Dec 2016 18:53:11 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 10 ColNo = 8 Msg = 'The import java.util.Arrays is never used'
+16 Dec 2016 18:53:24 GMT: diagnostics = javax.tools.DiagnosticCollector@8454a08
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@7cff5775
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\Graph.java, C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java]
+16 Dec 2016 18:53:24 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@5fc7026f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Desktop;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+16 Dec 2016 18:53:24 GMT: Compiler call returned
+16 Dec 2016 18:53:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2bea68aa
+16 Dec 2016 18:53:24 GMT:  Kind = WARNING
+16 Dec 2016 18:53:24 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 34 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:53:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2a7d876c
+16 Dec 2016 18:53:24 GMT:  Kind = WARNING
+16 Dec 2016 18:53:24 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 47 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:53:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1745d93f
+16 Dec 2016 18:53:24 GMT:  Kind = WARNING
+16 Dec 2016 18:53:24 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 259 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:53:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6ab9c308
+16 Dec 2016 18:53:24 GMT:  Kind = WARNING
+16 Dec 2016 18:53:24 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 10 ColNo = 8 Msg = 'The import java.util.Arrays is never used'
+16 Dec 2016 18:53:31 GMT: diagnostics = javax.tools.DiagnosticCollector@5da0228f
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@3c3d0a4e
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\Graph.java, C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java]
+16 Dec 2016 18:53:31 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@4b6fa5c7' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Desktop;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+16 Dec 2016 18:53:31 GMT: Compiler call returned
+16 Dec 2016 18:53:31 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@53d8631f
+16 Dec 2016 18:53:31 GMT:  Kind = WARNING
+16 Dec 2016 18:53:31 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 33 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:53:31 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2353b33a
+16 Dec 2016 18:53:31 GMT:  Kind = WARNING
+16 Dec 2016 18:53:31 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 46 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:53:31 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4c1bb6f4
+16 Dec 2016 18:53:31 GMT:  Kind = WARNING
+16 Dec 2016 18:53:31 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 258 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:53:41 GMT: diagnostics = javax.tools.DiagnosticCollector@4dfc23d
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@7e49354a
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\Graph.java, C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java]
+16 Dec 2016 18:53:41 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7849ce0b' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Desktop;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+16 Dec 2016 18:53:41 GMT: Compiler call returned
+16 Dec 2016 18:53:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3f1ea2e9
+16 Dec 2016 18:53:41 GMT:  Kind = WARNING
+16 Dec 2016 18:53:41 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 33 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:53:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@74598f5e
+16 Dec 2016 18:53:41 GMT:  Kind = WARNING
+16 Dec 2016 18:53:41 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 46 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:53:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@23d39fff
+16 Dec 2016 18:53:41 GMT:  Kind = WARNING
+16 Dec 2016 18:53:41 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 258 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:54:51 GMT: diagnostics = javax.tools.DiagnosticCollector@36db4683
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@75f25e97
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java]
+16 Dec 2016 18:54:51 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7b2047ff' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Desktop;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+16 Dec 2016 18:54:51 GMT: Compiler call returned
+16 Dec 2016 18:54:51 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3384582b
+16 Dec 2016 18:54:51 GMT:  Kind = WARNING
+16 Dec 2016 18:54:51 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 33 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:54:51 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@35b88979
+16 Dec 2016 18:54:51 GMT:  Kind = WARNING
+16 Dec 2016 18:54:51 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 46 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:54:51 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6649827c
+16 Dec 2016 18:54:51 GMT:  Kind = WARNING
+16 Dec 2016 18:54:51 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 258 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:55:39 GMT: diagnostics = javax.tools.DiagnosticCollector@6d1bdf2f
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@40d9be9f
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\Graph.java, C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java]
+16 Dec 2016 18:55:39 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1771d9fc' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Desktop;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+16 Dec 2016 18:55:39 GMT: Compiler call returned
+16 Dec 2016 18:55:39 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@8144d50
+16 Dec 2016 18:55:39 GMT:  Kind = WARNING
+16 Dec 2016 18:55:39 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 33 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:55:39 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6cdfc354
+16 Dec 2016 18:55:39 GMT:  Kind = WARNING
+16 Dec 2016 18:55:39 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 46 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 18:55:39 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5690f7a3
+16 Dec 2016 18:55:39 GMT:  Kind = WARNING
+16 Dec 2016 18:55:39 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 258 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 19:06:05 GMT: diagnostics = javax.tools.DiagnosticCollector@7b805606
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@268fe342
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\Graph.java, C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java]
+16 Dec 2016 19:06:05 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@309115d5' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Desktop;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+16 Dec 2016 19:06:06 GMT: Compiler call returned
+16 Dec 2016 19:06:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3ffaea34
+16 Dec 2016 19:06:06 GMT:  Kind = WARNING
+16 Dec 2016 19:06:06 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 33 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 19:06:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@72261cbc
+16 Dec 2016 19:06:06 GMT:  Kind = WARNING
+16 Dec 2016 19:06:06 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 46 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 19:06:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2428b530
+16 Dec 2016 19:06:06 GMT:  Kind = WARNING
+16 Dec 2016 19:06:06 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 258 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 19:06:10 GMT: diagnostics = javax.tools.DiagnosticCollector@6ec247e7
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@14fec780
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\Graph.java, C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java]
+16 Dec 2016 19:06:10 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@62dbaf44' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Desktop;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+16 Dec 2016 19:06:10 GMT: Compiler call returned
+16 Dec 2016 19:06:10 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@68f08888
+16 Dec 2016 19:06:10 GMT:  Kind = WARNING
+16 Dec 2016 19:06:10 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 33 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 19:06:10 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@793ce8b
+16 Dec 2016 19:06:10 GMT:  Kind = WARNING
+16 Dec 2016 19:06:10 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 46 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 19:06:10 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@78dd0b8f
+16 Dec 2016 19:06:10 GMT:  Kind = WARNING
+16 Dec 2016 19:06:10 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 258 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 19:06:14 GMT: diagnostics = javax.tools.DiagnosticCollector@5b3d494f
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@14981055
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\Graph.java, C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java]
+16 Dec 2016 19:06:14 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@b584703' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Desktop;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+16 Dec 2016 19:06:14 GMT: Compiler call returned
+16 Dec 2016 19:06:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5d4ed08b
+16 Dec 2016 19:06:14 GMT:  Kind = WARNING
+16 Dec 2016 19:06:14 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 33 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 19:06:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@615d8588
+16 Dec 2016 19:06:14 GMT:  Kind = WARNING
+16 Dec 2016 19:06:14 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 46 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 19:06:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@42e9d5a8
+16 Dec 2016 19:06:14 GMT:  Kind = WARNING
+16 Dec 2016 19:06:14 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 258 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 19:08:44 GMT: diagnostics = javax.tools.DiagnosticCollector@7c5fdef7
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@7a2769eb
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\Graph.java, C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java]
+16 Dec 2016 19:08:44 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@319b01f4' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Desktop;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+16 Dec 2016 19:08:44 GMT: Compiler call returned
+16 Dec 2016 19:08:44 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2bff2d04
+16 Dec 2016 19:08:44 GMT:  Kind = WARNING
+16 Dec 2016 19:08:44 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 33 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 19:08:44 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7de4782c
+16 Dec 2016 19:08:44 GMT:  Kind = WARNING
+16 Dec 2016 19:08:44 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 46 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 19:08:44 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@228dd146
+16 Dec 2016 19:08:44 GMT:  Kind = WARNING
+16 Dec 2016 19:08:44 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 258 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 19:09:44 GMT: diagnostics = javax.tools.DiagnosticCollector@3cec19fb
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@309dccfc
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\Graph.java, C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java]
+16 Dec 2016 19:09:44 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@47fccd53' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Desktop;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+16 Dec 2016 19:09:44 GMT: Compiler call returned
+16 Dec 2016 19:09:44 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5187b5b5
+16 Dec 2016 19:09:44 GMT:  Kind = WARNING
+16 Dec 2016 19:09:44 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 33 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 19:09:44 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@24aaa7e4
+16 Dec 2016 19:09:44 GMT:  Kind = WARNING
+16 Dec 2016 19:09:44 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 46 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 19:09:44 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3ff47c8a
+16 Dec 2016 19:09:44 GMT:  Kind = ERROR
+16 Dec 2016 19:09:44 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 92 ColNo = 36 Msg = 'Arrays cannot be resolved'
+16 Dec 2016 19:09:44 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4c1c68d3
+16 Dec 2016 19:09:44 GMT:  Kind = WARNING
+16 Dec 2016 19:09:44 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 259 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 19:09:54 GMT: diagnostics = javax.tools.DiagnosticCollector@27fffa93
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@169bdd69
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\Graph.java, C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java]
+16 Dec 2016 19:09:54 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@52e52417' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Desktop;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+16 Dec 2016 19:09:54 GMT: Compiler call returned
+16 Dec 2016 19:09:54 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@eb6d585
+16 Dec 2016 19:09:54 GMT:  Kind = WARNING
+16 Dec 2016 19:09:54 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 34 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 19:09:54 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@57c164f
+16 Dec 2016 19:09:54 GMT:  Kind = WARNING
+16 Dec 2016 19:09:54 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 47 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 19:09:54 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@159c9f59
+16 Dec 2016 19:09:54 GMT:  Kind = WARNING
+16 Dec 2016 19:09:54 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 260 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 21:05:43 GMT: diagnostics = javax.tools.DiagnosticCollector@5ac45a8b
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@11148a3b
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\Graph.java, C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java]
+16 Dec 2016 21:05:43 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@5b7f303f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Desktop;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+16 Dec 2016 21:05:43 GMT: Compiler call returned
+16 Dec 2016 21:05:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4d26dc4a
+16 Dec 2016 21:05:43 GMT:  Kind = WARNING
+16 Dec 2016 21:05:43 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 34 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 21:05:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3248a5d8
+16 Dec 2016 21:05:43 GMT:  Kind = WARNING
+16 Dec 2016 21:05:43 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 47 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+16 Dec 2016 21:05:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3f8021b2
+16 Dec 2016 21:05:43 GMT:  Kind = WARNING
+16 Dec 2016 21:05:43 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 256 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:11:40 GMT: diagnostics = javax.tools.DiagnosticCollector@5efea635
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@2052124c
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\Graph.java, C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java]
+17 Dec 2016 0:11:40 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@6c2f4c27' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Desktop;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+17 Dec 2016 0:11:40 GMT: Compiler call returned
+17 Dec 2016 0:11:40 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e7d058b
+17 Dec 2016 0:11:40 GMT:  Kind = WARNING
+17 Dec 2016 0:11:40 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 34 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:11:40 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@21f6f850
+17 Dec 2016 0:11:40 GMT:  Kind = WARNING
+17 Dec 2016 0:11:40 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 47 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:11:40 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5d285d9b
+17 Dec 2016 0:11:40 GMT:  Kind = WARNING
+17 Dec 2016 0:11:40 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 256 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:11:40 GMT: diagnostics = javax.tools.DiagnosticCollector@4bedf279
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@72ca0ce0
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\Graph.java, C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java]
+17 Dec 2016 0:11:40 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@2f138100' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Desktop;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+17 Dec 2016 0:11:40 GMT: Compiler call returned
+17 Dec 2016 0:11:40 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3deed5f2
+17 Dec 2016 0:11:40 GMT:  Kind = WARNING
+17 Dec 2016 0:11:40 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 34 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:11:40 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b2022a2
+17 Dec 2016 0:11:40 GMT:  Kind = WARNING
+17 Dec 2016 0:11:40 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 47 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:11:40 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6ac1bf62
+17 Dec 2016 0:11:40 GMT:  Kind = WARNING
+17 Dec 2016 0:11:40 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 256 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:12:22 GMT: diagnostics = javax.tools.DiagnosticCollector@7a117b4f
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@11b6be25
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\Graph.java, C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java]
+17 Dec 2016 0:12:22 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@747d7838' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Desktop;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+17 Dec 2016 0:12:22 GMT: Compiler call returned
+17 Dec 2016 0:12:22 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@78069079
+17 Dec 2016 0:12:22 GMT:  Kind = WARNING
+17 Dec 2016 0:12:22 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 34 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:12:22 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@76f7357e
+17 Dec 2016 0:12:22 GMT:  Kind = WARNING
+17 Dec 2016 0:12:22 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 47 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:12:22 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5fd92036
+17 Dec 2016 0:12:22 GMT:  Kind = WARNING
+17 Dec 2016 0:12:22 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 256 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:12:23 GMT: diagnostics = javax.tools.DiagnosticCollector@7d03b26d
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@7db75239
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\Graph.java, C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java]
+17 Dec 2016 0:12:23 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@e775caa' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Desktop;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+17 Dec 2016 0:12:23 GMT: Compiler call returned
+17 Dec 2016 0:12:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@44073f5c
+17 Dec 2016 0:12:23 GMT:  Kind = WARNING
+17 Dec 2016 0:12:23 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 34 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:12:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@37d0d3e8
+17 Dec 2016 0:12:23 GMT:  Kind = WARNING
+17 Dec 2016 0:12:23 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 47 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:12:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6f0840f8
+17 Dec 2016 0:12:23 GMT:  Kind = WARNING
+17 Dec 2016 0:12:23 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 256 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:12:23 GMT: diagnostics = javax.tools.DiagnosticCollector@2a9b0f9f
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@2a1ea593
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\Graph.java, C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java]
+17 Dec 2016 0:12:23 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@42086b7f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Desktop;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+17 Dec 2016 0:12:23 GMT: Compiler call returned
+17 Dec 2016 0:12:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2433634f
+17 Dec 2016 0:12:23 GMT:  Kind = WARNING
+17 Dec 2016 0:12:23 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 34 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:12:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@29bcea1a
+17 Dec 2016 0:12:23 GMT:  Kind = WARNING
+17 Dec 2016 0:12:23 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 47 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:12:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@31ad665e
+17 Dec 2016 0:12:23 GMT:  Kind = WARNING
+17 Dec 2016 0:12:23 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 256 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:12:58 GMT: diagnostics = javax.tools.DiagnosticCollector@6a8d9061
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@740206ed
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\Graph.java, C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java]
+17 Dec 2016 0:12:58 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@3114ed1b' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Desktop;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+17 Dec 2016 0:12:58 GMT: Compiler call returned
+17 Dec 2016 0:12:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@182e20e7
+17 Dec 2016 0:12:58 GMT:  Kind = WARNING
+17 Dec 2016 0:12:58 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 34 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:12:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7c722a17
+17 Dec 2016 0:12:58 GMT:  Kind = WARNING
+17 Dec 2016 0:12:58 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 47 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:12:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2b298bd5
+17 Dec 2016 0:12:58 GMT:  Kind = WARNING
+17 Dec 2016 0:12:58 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 256 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:13:16 GMT: diagnostics = javax.tools.DiagnosticCollector@4f299db5
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@3530fead
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\Graph.java, C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java]
+17 Dec 2016 0:13:16 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@23a02b23' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Desktop;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+17 Dec 2016 0:13:16 GMT: Compiler call returned
+17 Dec 2016 0:13:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@64b02b1d
+17 Dec 2016 0:13:16 GMT:  Kind = WARNING
+17 Dec 2016 0:13:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 34 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:13:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@69deb08f
+17 Dec 2016 0:13:16 GMT:  Kind = WARNING
+17 Dec 2016 0:13:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 47 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:13:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b19b296
+17 Dec 2016 0:13:16 GMT:  Kind = WARNING
+17 Dec 2016 0:13:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 257 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:16:28 GMT: diagnostics = javax.tools.DiagnosticCollector@2910afbd
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@681b65b
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\Graph.java, C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java, C:\Users\circulating\Desktop\cs230-exam3-starter-code\AdjMatGraph.java]
+17 Dec 2016 0:16:28 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@2deb13b3' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Desktop;C:\Users\circulating\Desktop\cs230-exam3-starter-code;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+17 Dec 2016 0:16:28 GMT: Compiler call returned
+17 Dec 2016 0:16:28 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@26b2e67c
+17 Dec 2016 0:16:28 GMT:  Kind = ERROR
+17 Dec 2016 0:16:28 GMT: Name = C:\Users\circulating\Desktop\cs230-exam3-starter-code\AdjMatGraph.java LineNo = 17 ColNo = 14 Msg = 'The type AdjMatGraph is already defined'
+17 Dec 2016 0:16:28 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2b39eabd
+17 Dec 2016 0:16:28 GMT:  Kind = WARNING
+17 Dec 2016 0:16:28 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 34 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:16:28 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@67623476
+17 Dec 2016 0:16:28 GMT:  Kind = WARNING
+17 Dec 2016 0:16:28 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 47 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:16:28 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@60626400
+17 Dec 2016 0:16:28 GMT:  Kind = WARNING
+17 Dec 2016 0:16:28 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 257 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:16:32 GMT: diagnostics = javax.tools.DiagnosticCollector@301fd581
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@79fa20d5
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\Graph.java, C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java, C:\Users\circulating\Desktop\cs230-exam3-starter-code\AdjMatGraph.java]
+17 Dec 2016 0:16:32 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1481be83' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Desktop;C:\Users\circulating\Desktop\cs230-exam3-starter-code;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+17 Dec 2016 0:16:32 GMT: Compiler call returned
+17 Dec 2016 0:16:32 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@231f01fc
+17 Dec 2016 0:16:32 GMT:  Kind = ERROR
+17 Dec 2016 0:16:32 GMT: Name = C:\Users\circulating\Desktop\cs230-exam3-starter-code\AdjMatGraph.java LineNo = 17 ColNo = 14 Msg = 'The type AdjMatGraph is already defined'
+17 Dec 2016 0:16:32 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@48bb5967
+17 Dec 2016 0:16:32 GMT:  Kind = WARNING
+17 Dec 2016 0:16:32 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 34 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:16:32 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3ea9e7f
+17 Dec 2016 0:16:32 GMT:  Kind = WARNING
+17 Dec 2016 0:16:32 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 47 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:16:32 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@204ba5db
+17 Dec 2016 0:16:32 GMT:  Kind = WARNING
+17 Dec 2016 0:16:32 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 257 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:16:36 GMT: diagnostics = javax.tools.DiagnosticCollector@4b996858
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@4491902e
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\Graph.java, C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java, C:\Users\circulating\Desktop\cs230-exam3-starter-code\AdjMatGraph.java]
+17 Dec 2016 0:16:36 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@3090df2d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Desktop;C:\Users\circulating\Desktop\cs230-exam3-starter-code;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+17 Dec 2016 0:16:36 GMT: Compiler call returned
+17 Dec 2016 0:16:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3f305ca2
+17 Dec 2016 0:16:36 GMT:  Kind = ERROR
+17 Dec 2016 0:16:36 GMT: Name = C:\Users\circulating\Desktop\cs230-exam3-starter-code\AdjMatGraph.java LineNo = 17 ColNo = 14 Msg = 'The type AdjMatGraph is already defined'
+17 Dec 2016 0:16:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11b017
+17 Dec 2016 0:16:36 GMT:  Kind = WARNING
+17 Dec 2016 0:16:36 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 34 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:16:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@93fb60a
+17 Dec 2016 0:16:36 GMT:  Kind = WARNING
+17 Dec 2016 0:16:36 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 47 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:16:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@35c84f44
+17 Dec 2016 0:16:36 GMT:  Kind = WARNING
+17 Dec 2016 0:16:36 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 257 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:17:33 GMT: diagnostics = javax.tools.DiagnosticCollector@63e045c3
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1904386f
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\Graph.java, C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java]
+17 Dec 2016 0:17:33 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@64150c3d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Desktop;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+17 Dec 2016 0:17:33 GMT: Compiler call returned
+17 Dec 2016 0:17:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@918309e
+17 Dec 2016 0:17:33 GMT:  Kind = WARNING
+17 Dec 2016 0:17:33 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 34 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:17:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@131fd9bc
+17 Dec 2016 0:17:33 GMT:  Kind = WARNING
+17 Dec 2016 0:17:33 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 47 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:17:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@100fcf73
+17 Dec 2016 0:17:33 GMT:  Kind = ERROR
+17 Dec 2016 0:17:33 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 151 ColNo = 7 Msg = 'The method addArc(java.lang.String, java.lang.String, int) in the type AdjMatGraph<java.lang.String> is not applicable for the arguments (java.lang.Integer, java.lang.Integer)'
+17 Dec 2016 0:17:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7dfc8f41
+17 Dec 2016 0:17:33 GMT:  Kind = WARNING
+17 Dec 2016 0:17:33 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 310 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:17:42 GMT: diagnostics = javax.tools.DiagnosticCollector@285bf4a1
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@2d198aba
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\Graph.java, C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java]
+17 Dec 2016 0:17:42 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@67e2d077' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Desktop;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+17 Dec 2016 0:17:42 GMT: Compiler call returned
+17 Dec 2016 0:17:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4461e871
+17 Dec 2016 0:17:42 GMT:  Kind = WARNING
+17 Dec 2016 0:17:42 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 34 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:17:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@77e375c9
+17 Dec 2016 0:17:42 GMT:  Kind = WARNING
+17 Dec 2016 0:17:42 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 47 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:17:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@764a1c9c
+17 Dec 2016 0:17:42 GMT:  Kind = WARNING
+17 Dec 2016 0:17:42 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 310 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:17:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7b9c826f
+17 Dec 2016 0:17:42 GMT:  Kind = WARNING
+17 Dec 2016 0:17:42 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 10 ColNo = 8 Msg = 'The import java.util.Arrays is never used'
+17 Dec 2016 0:20:10 GMT: diagnostics = javax.tools.DiagnosticCollector@43bf8a1
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@7d401432
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\Graph.java, C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java]
+17 Dec 2016 0:20:10 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@79ee1edb' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Desktop;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+17 Dec 2016 0:20:10 GMT: Compiler call returned
+17 Dec 2016 0:20:10 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1444043
+17 Dec 2016 0:20:10 GMT:  Kind = WARNING
+17 Dec 2016 0:20:10 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 34 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:20:10 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@27d6ef5b
+17 Dec 2016 0:20:10 GMT:  Kind = WARNING
+17 Dec 2016 0:20:10 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 47 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:20:10 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ffc53cc
+17 Dec 2016 0:20:10 GMT:  Kind = ERROR
+17 Dec 2016 0:20:10 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 141 ColNo = 23 Msg = 'The method parseint(java.lang.String) is undefined for the type java.lang.Integer'
+17 Dec 2016 0:20:10 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7ee17e46
+17 Dec 2016 0:20:10 GMT:  Kind = WARNING
+17 Dec 2016 0:20:10 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 311 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:20:25 GMT: diagnostics = javax.tools.DiagnosticCollector@6debdd86
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@181cc0cb
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\Graph.java, C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java]
+17 Dec 2016 0:20:25 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7b55bcb' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Desktop;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+17 Dec 2016 0:20:25 GMT: Compiler call returned
+17 Dec 2016 0:20:25 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@295fdddd
+17 Dec 2016 0:20:25 GMT:  Kind = WARNING
+17 Dec 2016 0:20:25 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 34 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:20:25 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@54deed63
+17 Dec 2016 0:20:25 GMT:  Kind = WARNING
+17 Dec 2016 0:20:25 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 47 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:20:25 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@77b32a1c
+17 Dec 2016 0:20:25 GMT:  Kind = ERROR
+17 Dec 2016 0:20:25 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 141 ColNo = 15 Msg = 'Type mismatch: cannot convert from java.lang.String to int'
+17 Dec 2016 0:20:25 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1391d1a9
+17 Dec 2016 0:20:25 GMT:  Kind = WARNING
+17 Dec 2016 0:20:25 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 311 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:20:26 GMT: diagnostics = javax.tools.DiagnosticCollector@768f445a
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@37d0ad85
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\Graph.java, C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java]
+17 Dec 2016 0:20:26 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@65301363' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Desktop;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+17 Dec 2016 0:20:26 GMT: Compiler call returned
+17 Dec 2016 0:20:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7880273
+17 Dec 2016 0:20:26 GMT:  Kind = WARNING
+17 Dec 2016 0:20:26 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 34 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:20:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7258cfe1
+17 Dec 2016 0:20:26 GMT:  Kind = WARNING
+17 Dec 2016 0:20:26 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 47 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:20:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@24b7f76d
+17 Dec 2016 0:20:26 GMT:  Kind = ERROR
+17 Dec 2016 0:20:26 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 141 ColNo = 15 Msg = 'Type mismatch: cannot convert from java.lang.String to int'
+17 Dec 2016 0:20:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@29d527f0
+17 Dec 2016 0:20:26 GMT:  Kind = WARNING
+17 Dec 2016 0:20:26 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 311 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:20:41 GMT: diagnostics = javax.tools.DiagnosticCollector@4afc77d0
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@51e1f26
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\Graph.java, C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java]
+17 Dec 2016 0:20:41 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7c8efa69' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Desktop;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+17 Dec 2016 0:20:42 GMT: Compiler call returned
+17 Dec 2016 0:20:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@14ccce0d
+17 Dec 2016 0:20:42 GMT:  Kind = WARNING
+17 Dec 2016 0:20:42 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 34 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:20:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11ebc226
+17 Dec 2016 0:20:42 GMT:  Kind = WARNING
+17 Dec 2016 0:20:42 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 47 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:20:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d1755fb
+17 Dec 2016 0:20:42 GMT:  Kind = WARNING
+17 Dec 2016 0:20:42 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 311 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:20:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@770dd873
+17 Dec 2016 0:20:42 GMT:  Kind = WARNING
+17 Dec 2016 0:20:42 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 10 ColNo = 8 Msg = 'The import java.util.Arrays is never used'
+17 Dec 2016 0:21:38 GMT: diagnostics = javax.tools.DiagnosticCollector@70a70dfc
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@6787552b
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\Graph.java, C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java]
+17 Dec 2016 0:21:38 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@65e8af26' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Desktop;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+17 Dec 2016 0:21:38 GMT: Compiler call returned
+17 Dec 2016 0:21:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@605eb58d
+17 Dec 2016 0:21:38 GMT:  Kind = WARNING
+17 Dec 2016 0:21:38 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 34 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:21:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@69e16d68
+17 Dec 2016 0:21:38 GMT:  Kind = WARNING
+17 Dec 2016 0:21:38 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 47 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:21:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4ed5fd26
+17 Dec 2016 0:21:38 GMT:  Kind = WARNING
+17 Dec 2016 0:21:38 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 316 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:21:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@42def239
+17 Dec 2016 0:21:38 GMT:  Kind = WARNING
+17 Dec 2016 0:21:38 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 10 ColNo = 8 Msg = 'The import java.util.Arrays is never used'
+17 Dec 2016 0:21:45 GMT: diagnostics = javax.tools.DiagnosticCollector@305fe4e9
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@67ad95ce
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\Graph.java, C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java]
+17 Dec 2016 0:21:45 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@35463c8f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Desktop;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+17 Dec 2016 0:21:45 GMT: Compiler call returned
+17 Dec 2016 0:21:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@8d47842
+17 Dec 2016 0:21:45 GMT:  Kind = WARNING
+17 Dec 2016 0:21:45 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 34 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:21:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@35233995
+17 Dec 2016 0:21:45 GMT:  Kind = WARNING
+17 Dec 2016 0:21:45 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 47 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:21:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b998074
+17 Dec 2016 0:21:45 GMT:  Kind = ERROR
+17 Dec 2016 0:21:45 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 139 ColNo = 17 Msg = 'Type mismatch: cannot convert from null to int'
+17 Dec 2016 0:21:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7ac04dd3
+17 Dec 2016 0:21:45 GMT:  Kind = WARNING
+17 Dec 2016 0:21:45 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 316 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:21:59 GMT: diagnostics = javax.tools.DiagnosticCollector@6108994d
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@7b88bfff
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\Graph.java, C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java]
+17 Dec 2016 0:21:59 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@4ef53db5' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Desktop;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+17 Dec 2016 0:21:59 GMT: Compiler call returned
+17 Dec 2016 0:21:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e107fae
+17 Dec 2016 0:21:59 GMT:  Kind = WARNING
+17 Dec 2016 0:21:59 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 34 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:21:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5d2e7fb8
+17 Dec 2016 0:21:59 GMT:  Kind = WARNING
+17 Dec 2016 0:21:59 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 47 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:21:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17c338d3
+17 Dec 2016 0:21:59 GMT:  Kind = WARNING
+17 Dec 2016 0:21:59 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 316 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:21:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11c7b0d5
+17 Dec 2016 0:21:59 GMT:  Kind = WARNING
+17 Dec 2016 0:21:59 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 10 ColNo = 8 Msg = 'The import java.util.Arrays is never used'
+17 Dec 2016 0:22:44 GMT: diagnostics = javax.tools.DiagnosticCollector@6dba7252
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@6ba79dc5
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\Graph.java, C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java]
+17 Dec 2016 0:22:44 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@496727ba' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Desktop;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+17 Dec 2016 0:22:44 GMT: Compiler call returned
+17 Dec 2016 0:22:44 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c3d01d6
+17 Dec 2016 0:22:44 GMT:  Kind = ERROR
+17 Dec 2016 0:22:44 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 144 ColNo = 37 Msg = 'Syntax error on token ")", { expected after this token'
+17 Dec 2016 0:22:44 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@69439715
+17 Dec 2016 0:22:44 GMT:  Kind = ERROR
+17 Dec 2016 0:22:44 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 157 ColNo = 3 Msg = 'Syntax error, insert "}" to complete Block'
+17 Dec 2016 0:22:44 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@547419b0
+17 Dec 2016 0:22:44 GMT:  Kind = WARNING
+17 Dec 2016 0:22:44 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 34 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:22:44 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@12429d21
+17 Dec 2016 0:22:44 GMT:  Kind = WARNING
+17 Dec 2016 0:22:44 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 47 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:22:44 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5359eae4
+17 Dec 2016 0:22:44 GMT:  Kind = WARNING
+17 Dec 2016 0:22:44 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 314 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:24:16 GMT: diagnostics = javax.tools.DiagnosticCollector@2eed0458
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@4ab84579
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\Graph.java, C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java]
+17 Dec 2016 0:24:16 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7d93142' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Desktop;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+17 Dec 2016 0:24:16 GMT: Compiler call returned
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@63146e74
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 158 ColNo = 5 Msg = 'Syntax error on token "catch", Identifier expected'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@525fb47d
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 161 ColNo = 5 Msg = 'Syntax error on token "finally", delete this token'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@942a4cb
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 171 ColNo = 19 Msg = 'Illegal modifier for the class VerticesIterator; only public, abstract & final are permitted'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7651102c
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 171 ColNo = 56 Msg = 'T cannot be resolved to a type'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@43fcf563
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 157 ColNo = 4 Msg = 'Syntax error, insert "Finally" to complete TryStatement'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@14525974
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 192 ColNo = 5 Msg = 'Syntax error on token "}", delete this token'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2a6ed918
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 395 ColNo = 24 Msg = 'T cannot be resolved to a type'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@536ecc6b
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 395 ColNo = 37 Msg = 'T cannot be resolved to a type'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f2eaf98
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 382 ColNo = 25 Msg = 'T cannot be resolved to a type'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@420a2bf1
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 382 ColNo = 36 Msg = 'T cannot be resolved to a type'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@29cafd16
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 294 ColNo = 28 Msg = 'T cannot be resolved to a type'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4dadc4c9
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 205 ColNo = 35 Msg = 'T cannot be resolved to a type'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4b528ff6
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 455 ColNo = 28 Msg = 'T cannot be resolved to a type'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1969861c
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 485 ColNo = 42 Msg = 'T cannot be resolved to a type'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5ee3a54c
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 485 ColNo = 23 Msg = 'T cannot be resolved to a type'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3379513f
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 503 ColNo = 40 Msg = 'T cannot be resolved to a type'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@61c5197f
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 503 ColNo = 23 Msg = 'T cannot be resolved to a type'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@530d12fe
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 467 ColNo = 15 Msg = 'T cannot be resolved to a type'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7f5a0c4a
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 246 ColNo = 26 Msg = 'T cannot be resolved to a type'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@70dd0f97
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 246 ColNo = 39 Msg = 'T cannot be resolved to a type'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@412abc64
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 267 ColNo = 27 Msg = 'T cannot be resolved to a type'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5cb66aa8
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 267 ColNo = 40 Msg = 'T cannot be resolved to a type'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4c146b25
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 198 ColNo = 21 Msg = 'T cannot be resolved to a type'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@50867128
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 180 ColNo = 16 Msg = 'T cannot be resolved to a type'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2a6f2265
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 431 ColNo = 27 Msg = 'T cannot be resolved to a type'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@663b2aa6
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 431 ColNo = 40 Msg = 'T cannot be resolved to a type'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@366d2cb9
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 418 ColNo = 28 Msg = 'T cannot be resolved to a type'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@39934199
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 418 ColNo = 39 Msg = 'T cannot be resolved to a type'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@72b7c156
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 334 ColNo = 31 Msg = 'T cannot be resolved to a type'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7df62ff0
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 18 ColNo = 14 Msg = 'The type AdjMatGraph<T> must implement the inherited abstract method Graph<T>.isEdge(T, T)'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2dc5762b
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 18 ColNo = 14 Msg = 'The type AdjMatGraph<T> must implement the inherited abstract method Graph<T>.getSuccessors(T)'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7ed11886
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 18 ColNo = 14 Msg = 'The type AdjMatGraph<T> must implement the inherited abstract method Graph<T>.getPredecessors(T)'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@51a14675
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 18 ColNo = 14 Msg = 'The type AdjMatGraph<T> must implement the inherited abstract method Graph<T>.removeEdge(T, T)'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3318d531
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 18 ColNo = 14 Msg = 'The type AdjMatGraph<T> must implement the inherited abstract method Graph<T>.addVertex(T)'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@23549e2c
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 18 ColNo = 14 Msg = 'The type AdjMatGraph<T> must implement the inherited abstract method Graph<T>.removeVertex(T)'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@85c6cd3
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 18 ColNo = 14 Msg = 'The type AdjMatGraph<T> must implement the inherited abstract method Graph<T>.addArc(T, T, int)'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6bec94ee
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 18 ColNo = 14 Msg = 'The type AdjMatGraph<T> must implement the inherited abstract method Graph<T>.removeArc(T, T)'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7925cc9c
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 18 ColNo = 14 Msg = 'The type AdjMatGraph<T> must implement the inherited abstract method Graph<T>.saveTGF(java.lang.String)'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@209c53e7
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 18 ColNo = 14 Msg = 'The type AdjMatGraph<T> must implement the inherited abstract method Graph<T>.isArc(T, T)'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7748736a
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 18 ColNo = 14 Msg = 'The type AdjMatGraph<T> must implement the inherited abstract method Graph<T>.isEmpty()'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@35917154
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 18 ColNo = 14 Msg = 'The type AdjMatGraph<T> must implement the inherited abstract method Graph<T>.isUndirected()'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5fa75d45
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 18 ColNo = 14 Msg = 'The type AdjMatGraph<T> must implement the inherited abstract method Graph<T>.n()'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@64dc8e12
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 18 ColNo = 14 Msg = 'The type AdjMatGraph<T> must implement the inherited abstract method Graph<T>.m()'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4bf37379
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 18 ColNo = 14 Msg = 'The type AdjMatGraph<T> must implement the inherited abstract method Graph<T>.addEdge(T, T, int)'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5c2233e3
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 18 ColNo = 14 Msg = 'The type AdjMatGraph<T> must implement the inherited abstract method java.lang.Iterable<T>.iterator()'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@497cab56
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 162 ColNo = 4 Msg = 'fileReader cannot be resolved'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17d4c0cb
+17 Dec 2016 0:24:16 GMT:  Kind = WARNING
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 34 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@10bd5ba6
+17 Dec 2016 0:24:16 GMT:  Kind = WARNING
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 47 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7fcbf7df
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 176 ColNo = 29 Msg = 'n cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@27fe9305
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 181 ColNo = 27 Msg = 'n cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3a6641c6
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 184 ColNo = 24 Msg = 'vertices cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f684c1e
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 206 ColNo = 36 Msg = 'NOT_FOUND cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@85d4d79
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 217 ColNo = 16 Msg = 'n cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@25894739
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 224 ColNo = 16 Msg = 'n cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@57a3026f
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 233 ColNo = 29 Msg = 'n cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ef4f25c
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 234 ColNo = 33 Msg = 'n cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@73537daf
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 235 ColNo = 21 Msg = 'arcs cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6e60a74f
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 249 ColNo = 23 Msg = 'NOT_FOUND cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b886c26
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 249 ColNo = 44 Msg = 'NOT_FOUND cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@297438b4
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 249 ColNo = 57 Msg = 'arcs cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d36c6af
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 260 ColNo = 16 Msg = 'arcs cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@72e11f0
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 270 ColNo = 23 Msg = 'NOT_FOUND cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@619ba73e
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 270 ColNo = 44 Msg = 'NOT_FOUND cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@32010982
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 282 ColNo = 21 Msg = 'arcs cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@62174f73
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 282 ColNo = 35 Msg = 'arcs cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@68613954
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 295 ColNo = 33 Msg = 'NOT_FOUND cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@46faef55
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 296 ColNo = 13 Msg = 'n cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@476d9db
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 296 ColNo = 18 Msg = 'vertices cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@16d8bb27
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 300 ColNo = 9 Msg = 'vertices cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6ee70928
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 300 ColNo = 18 Msg = 'n cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@20a59fa
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 306 ColNo = 9 Msg = 'n cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@75992d21
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 315 ColNo = 9 Msg = 'T cannot be resolved to a type'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b620dd8
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 315 ColNo = 31 Msg = 'T cannot be resolved to a type'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@427aedf3
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 315 ColNo = 47 Msg = 'vertices cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@149c0e9e
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 317 ColNo = 25 Msg = 'vertices cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1183b1a4
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 317 ColNo = 44 Msg = 'vertices cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5d038ef7
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 319 ColNo = 29 Msg = 'n cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@149f29d6
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 320 ColNo = 33 Msg = 'n cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5d73ab2d
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 321 ColNo = 41 Msg = 'arcs cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@54eb4749
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 323 ColNo = 33 Msg = 'vertices cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2295352d
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 326 ColNo = 9 Msg = 'vertices cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@71d62f17
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 327 ColNo = 9 Msg = 'arcs cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@24adc964
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 336 ColNo = 22 Msg = 'NOT_FOUND cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d80d70c
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 350 ColNo = 9 Msg = 'n cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5a65bc1
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 353 ColNo = 33 Msg = 'n cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6cd1decc
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 354 ColNo = 13 Msg = 'vertices cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@467a5ae4
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 354 ColNo = 27 Msg = 'vertices cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ae552e2
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 358 ColNo = 33 Msg = 'n cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@55a47904
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 359 ColNo = 34 Msg = 'n cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@21052189
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 360 ColNo = 17 Msg = 'arcs cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@57dcba4e
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 360 ColNo = 30 Msg = 'arcs cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5c4b83f2
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 365 ColNo = 33 Msg = 'n cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@61c3b434
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 366 ColNo = 33 Msg = 'n cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@776bf410
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 367 ColNo = 17 Msg = 'arcs cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@506483b0
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 367 ColNo = 30 Msg = 'arcs cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7701c10b
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 372 ColNo = 29 Msg = 'n cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1428f637
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 373 ColNo = 13 Msg = 'arcs cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d3c9f38
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 373 ColNo = 18 Msg = 'n cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6f91c52
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 374 ColNo = 13 Msg = 'arcs cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4cb24f11
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 374 ColNo = 21 Msg = 'n cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4e650c6d
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 385 ColNo = 23 Msg = 'NOT_FOUND cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4c12f050
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 385 ColNo = 46 Msg = 'NOT_FOUND cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6f5f3b34
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 398 ColNo = 20 Msg = 'NOT_FOUND cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@55280c0b
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 398 ColNo = 41 Msg = 'NOT_FOUND cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@382ed1da
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 411 ColNo = 9 Msg = 'arcs cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@9d35c07
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 421 ColNo = 23 Msg = 'NOT_FOUND cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@133ed49b
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 421 ColNo = 46 Msg = 'NOT_FOUND cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f815fc
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 434 ColNo = 20 Msg = 'NOT_FOUND cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@466b5466
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 434 ColNo = 41 Msg = 'NOT_FOUND cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@307218a8
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 447 ColNo = 9 Msg = 'arcs cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@12b0d671
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 456 ColNo = 29 Msg = 'n cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17ce9e4d
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 457 ColNo = 17 Msg = 'vertices cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7dfadd70
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 461 ColNo = 16 Msg = 'NOT_FOUND cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@60e024ad
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 471 ColNo = 16 Msg = 'vertices cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b880b8b
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 478 ColNo = 24 Msg = 'n cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ade0cc
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 486 ColNo = 20 Msg = 'T cannot be resolved to a type'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1781716d
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 486 ColNo = 50 Msg = 'T cannot be resolved to a type'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@333db729
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 490 ColNo = 18 Msg = 'NOT_FOUND cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18c3ff07
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 491 ColNo = 29 Msg = 'n cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6b9c3144
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 492 ColNo = 17 Msg = 'arcs cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5b669e8d
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 493 ColNo = 31 Msg = 'The method getVertex(int) from the type VerticesIterator refers to the missing type T'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2e3369dc
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 504 ColNo = 20 Msg = 'T cannot be resolved to a type'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@316b0236
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 504 ColNo = 50 Msg = 'T cannot be resolved to a type'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@685e4092
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 507 ColNo = 18 Msg = 'NOT_FOUND cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3e166c6
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 508 ColNo = 29 Msg = 'n cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@43225327
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 509 ColNo = 17 Msg = 'arcs cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@28147e0
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 510 ColNo = 31 Msg = 'The method getVertex(int) from the type VerticesIterator refers to the missing type T'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7595c468
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 520 ColNo = 13 Msg = 'n cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3b91c427
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 530 ColNo = 29 Msg = 'n cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5ee4fafe
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 531 ColNo = 28 Msg = 'The method getVertex(int) from the type VerticesIterator refers to the missing type T'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b1a6a5e
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 538 ColNo = 29 Msg = 'n cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@733d4703
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 539 ColNo = 28 Msg = 'The method getVertex(int) from the type VerticesIterator refers to the missing type T'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3c015110
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 541 ColNo = 33 Msg = 'n cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7a711036
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 542 ColNo = 21 Msg = 'arcs cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@14df8807
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 543 ColNo = 31 Msg = 'arcs cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5f5b8e45
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 563 ColNo = 21 Msg = 'vertices cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@73d984eb
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 566 ColNo = 48 Msg = 'vertices cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4da59bb8
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 576 ColNo = 25 Msg = 'arcs cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@339274db
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 577 ColNo = 66 Msg = 'arcs cannot be resolved to a variable'
+17 Dec 2016 0:24:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5435f050
+17 Dec 2016 0:24:16 GMT:  Kind = ERROR
+17 Dec 2016 0:24:16 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 656 ColNo = 9 Msg = 'The method loadTGF(java.lang.String, AdjMatGraph<java.lang.String>) is undefined for the type VerticesIterator'
+17 Dec 2016 0:24:35 GMT: diagnostics = javax.tools.DiagnosticCollector@3dcd4b4c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@710a8a46
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\Graph.java, C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java]
+17 Dec 2016 0:24:35 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@6afc33a4' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Desktop;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+17 Dec 2016 0:24:35 GMT: Compiler call returned
+17 Dec 2016 0:24:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ee14f5b
+17 Dec 2016 0:24:35 GMT:  Kind = WARNING
+17 Dec 2016 0:24:35 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 34 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:24:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5a20ef33
+17 Dec 2016 0:24:35 GMT:  Kind = WARNING
+17 Dec 2016 0:24:35 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 47 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:24:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@28382b7f
+17 Dec 2016 0:24:35 GMT:  Kind = WARNING
+17 Dec 2016 0:24:35 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 316 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:24:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7fafb379
+17 Dec 2016 0:24:35 GMT:  Kind = WARNING
+17 Dec 2016 0:24:35 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 10 ColNo = 8 Msg = 'The import java.util.Arrays is never used'
+17 Dec 2016 0:25:04 GMT: diagnostics = javax.tools.DiagnosticCollector@1764429e
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@37519f11
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\Graph.java, C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java]
+17 Dec 2016 0:25:04 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@4fa23176' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Desktop;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+17 Dec 2016 0:25:04 GMT: Compiler call returned
+17 Dec 2016 0:25:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@598d32c7
+17 Dec 2016 0:25:04 GMT:  Kind = WARNING
+17 Dec 2016 0:25:04 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 34 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:25:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4500d4bf
+17 Dec 2016 0:25:04 GMT:  Kind = WARNING
+17 Dec 2016 0:25:04 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 47 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:25:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@398f6afd
+17 Dec 2016 0:25:04 GMT:  Kind = WARNING
+17 Dec 2016 0:25:04 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 316 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:25:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@76b92590
+17 Dec 2016 0:25:04 GMT:  Kind = WARNING
+17 Dec 2016 0:25:04 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 10 ColNo = 8 Msg = 'The import java.util.Arrays is never used'
+17 Dec 2016 0:25:59 GMT: diagnostics = javax.tools.DiagnosticCollector@10b30150
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@581b33c0
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\Graph.java, C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java]
+17 Dec 2016 0:25:59 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@61e2af70' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Desktop;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+17 Dec 2016 0:26:00 GMT: Compiler call returned
+17 Dec 2016 0:26:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@345c92e4
+17 Dec 2016 0:26:00 GMT:  Kind = WARNING
+17 Dec 2016 0:26:00 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 34 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:26:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@29afd197
+17 Dec 2016 0:26:00 GMT:  Kind = WARNING
+17 Dec 2016 0:26:00 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 47 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:26:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@55e925e2
+17 Dec 2016 0:26:00 GMT:  Kind = WARNING
+17 Dec 2016 0:26:00 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 260 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:26:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3db6447e
+17 Dec 2016 0:26:00 GMT:  Kind = WARNING
+17 Dec 2016 0:26:00 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 10 ColNo = 8 Msg = 'The import java.util.Arrays is never used'
+17 Dec 2016 0:28:54 GMT: diagnostics = javax.tools.DiagnosticCollector@5e6382bf
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@571cfa02
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\Graph.java, C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java]
+17 Dec 2016 0:28:54 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@2f61c5fc' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Desktop;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+17 Dec 2016 0:28:54 GMT: Compiler call returned
+17 Dec 2016 0:28:54 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@191a9dd3
+17 Dec 2016 0:28:54 GMT:  Kind = WARNING
+17 Dec 2016 0:28:54 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 34 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:28:54 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@226f9485
+17 Dec 2016 0:28:54 GMT:  Kind = WARNING
+17 Dec 2016 0:28:54 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 47 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:28:54 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4b7fb96c
+17 Dec 2016 0:28:54 GMT:  Kind = WARNING
+17 Dec 2016 0:28:54 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 260 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:28:54 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2e66882d
+17 Dec 2016 0:28:54 GMT:  Kind = WARNING
+17 Dec 2016 0:28:54 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 10 ColNo = 8 Msg = 'The import java.util.Arrays is never used'
+17 Dec 2016 0:29:15 GMT: diagnostics = javax.tools.DiagnosticCollector@31adff2e
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@164c3e7d
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\Graph.java, C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java]
+17 Dec 2016 0:29:15 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@679a8bfa' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Desktop;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+17 Dec 2016 0:29:15 GMT: Compiler call returned
+17 Dec 2016 0:29:15 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@165108eb
+17 Dec 2016 0:29:15 GMT:  Kind = WARNING
+17 Dec 2016 0:29:15 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 34 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:29:15 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@222087bf
+17 Dec 2016 0:29:15 GMT:  Kind = WARNING
+17 Dec 2016 0:29:15 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 47 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:29:15 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5b01e1a
+17 Dec 2016 0:29:15 GMT:  Kind = WARNING
+17 Dec 2016 0:29:15 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 260 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:29:15 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6d883fe0
+17 Dec 2016 0:29:15 GMT:  Kind = WARNING
+17 Dec 2016 0:29:15 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 10 ColNo = 8 Msg = 'The import java.util.Arrays is never used'
+17 Dec 2016 0:29:56 GMT: diagnostics = javax.tools.DiagnosticCollector@4ad0c292
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@4f96259d
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\Graph.java, C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java]
+17 Dec 2016 0:29:56 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@a7f8f3d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Desktop;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+17 Dec 2016 0:29:56 GMT: Compiler call returned
+17 Dec 2016 0:29:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3ac46c15
+17 Dec 2016 0:29:56 GMT:  Kind = WARNING
+17 Dec 2016 0:29:56 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 34 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:29:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3593f4d7
+17 Dec 2016 0:29:56 GMT:  Kind = WARNING
+17 Dec 2016 0:29:56 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 47 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:29:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4af6abc
+17 Dec 2016 0:29:56 GMT:  Kind = WARNING
+17 Dec 2016 0:29:56 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 260 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:29:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18885f0b
+17 Dec 2016 0:29:56 GMT:  Kind = WARNING
+17 Dec 2016 0:29:56 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 10 ColNo = 8 Msg = 'The import java.util.Arrays is never used'
+17 Dec 2016 0:30:25 GMT: diagnostics = javax.tools.DiagnosticCollector@2b467faf
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@2168d05b
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\Graph.java, C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java]
+17 Dec 2016 0:30:25 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@6847177f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Desktop;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+17 Dec 2016 0:30:25 GMT: Compiler call returned
+17 Dec 2016 0:30:25 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@61a0aa8d
+17 Dec 2016 0:30:25 GMT:  Kind = WARNING
+17 Dec 2016 0:30:25 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 34 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:30:25 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7b1d410d
+17 Dec 2016 0:30:25 GMT:  Kind = WARNING
+17 Dec 2016 0:30:25 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 47 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:30:25 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3d99fba0
+17 Dec 2016 0:30:25 GMT:  Kind = WARNING
+17 Dec 2016 0:30:25 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 260 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:30:25 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4856e4f8
+17 Dec 2016 0:30:25 GMT:  Kind = WARNING
+17 Dec 2016 0:30:25 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 10 ColNo = 8 Msg = 'The import java.util.Arrays is never used'
+17 Dec 2016 0:31:04 GMT: diagnostics = javax.tools.DiagnosticCollector@56ff865d
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@21ce704a
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\Graph.java, C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java]
+17 Dec 2016 0:31:04 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@782e1b9c' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Desktop;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+17 Dec 2016 0:31:05 GMT: Compiler call returned
+17 Dec 2016 0:31:05 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4279b893
+17 Dec 2016 0:31:05 GMT:  Kind = WARNING
+17 Dec 2016 0:31:05 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 34 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:31:05 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4544dcfd
+17 Dec 2016 0:31:05 GMT:  Kind = WARNING
+17 Dec 2016 0:31:05 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 47 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:31:05 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2c088992
+17 Dec 2016 0:31:05 GMT:  Kind = WARNING
+17 Dec 2016 0:31:05 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 260 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:31:05 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@647fe6d3
+17 Dec 2016 0:31:05 GMT:  Kind = WARNING
+17 Dec 2016 0:31:05 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 10 ColNo = 8 Msg = 'The import java.util.Arrays is never used'
+17 Dec 2016 0:31:07 GMT: diagnostics = javax.tools.DiagnosticCollector@77f30700
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@7450ce85
+fileObjects = [C:\Users\circulating\Desktop\FINALPROJECT\Graph.java, C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java]
+17 Dec 2016 0:31:07 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@6526b96b' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\circulating\Desktop\FINALPROJECT;C:\Users\circulating\Desktop;C:\Users\circulating\Downloads\drjava-beta-20160913-225446.exe]
+17 Dec 2016 0:31:07 GMT: Compiler call returned
+17 Dec 2016 0:31:07 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@56ff8ffa
+17 Dec 2016 0:31:07 GMT:  Kind = WARNING
+17 Dec 2016 0:31:07 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 34 ColNo = 25 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:31:07 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@244592b5
+17 Dec 2016 0:31:07 GMT:  Kind = WARNING
+17 Dec 2016 0:31:07 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 47 ColNo = 20 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:31:07 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@53a2bbad
+17 Dec 2016 0:31:07 GMT:  Kind = WARNING
+17 Dec 2016 0:31:07 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 260 ColNo = 30 Msg = 'Type safety: Unchecked cast from java.lang.Object[] to T[]'
+17 Dec 2016 0:31:07 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@60cf85c0
+17 Dec 2016 0:31:07 GMT:  Kind = WARNING
+17 Dec 2016 0:31:07 GMT: Name = C:\Users\circulating\Desktop\FINALPROJECT\AdjMatGraph.java LineNo = 10 ColNo = 8 Msg = 'The import java.util.Arrays is never used'
