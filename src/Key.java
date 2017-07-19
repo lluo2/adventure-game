@@ -1,0 +1,55 @@
+/**
+ * Key.java
+ * for Adventure Time
+ * Created by: Jessenia Aguilar-Hernandez
+ * Modified By: Lauren Luo & Adrianna Valle
+ * 
+ * This class creates Key Objects for the Game. It takes in the image name,
+ * the message that is given when the key is selected and a message that is given,
+ * when the key is not the correct one.
+ */
+
+public class Key implements Comparable<Key> {
+	private String keyName; 
+	private String activeMsg; //response if key is active
+	private String inactiveMsg; //response if key is inactive
+  
+	/**
+	 * Constructor takes in key name and text for user interaction purposes
+	 */
+	public Key(String k, String activeMsg, String inactiveMsg) {
+		keyName = k;
+		this.activeMsg = activeMsg;
+		this.inactiveMsg = inactiveMsg;
+	}
+  
+	/**
+	 * Returns the name of the key
+	 */
+	public String getName() { return keyName; }
+ 
+	/** 
+	 * Returns response of key when first selected. 
+	 */
+	public String getActiveMsg() { return activeMsg; }
+  
+	/** 
+	 * Returns the response of the key if not the correct key.  
+	 */
+	public String getInactiveMsg() { return inactiveMsg; }
+  
+	/** 
+	 * Returns an individual copy of the key 
+	 */
+	public Key copyKey() { return new Key(keyName, activeMsg, inactiveMsg); }
+  
+	/** 
+	 * Compares this key with other key object by comparing their string name
+	 */
+	public int compareTo(Key other) { return keyName.compareTo(other.getName()); }
+  
+	/** 
+	 * Returns a string representation of the key 
+	 */
+	public String toString() { return keyName; }
+}
